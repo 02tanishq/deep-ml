@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:36:34.848Z",
+  "generated_at": "2026-10-30T05:37:14.698Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -229,6 +229,19 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-10-30T02:36:33.157Z",
       "last_pushed_at": "2026-10-30T02:36:33.157Z"
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-10-30T05:37:13.765Z",
+      "last_pushed_at": "2026-10-30T05:37:13.765Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }

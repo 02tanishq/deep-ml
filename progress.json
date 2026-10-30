@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:37:56.809Z",
+  "generated_at": "2026-10-30T02:36:34.848Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -218,6 +218,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-10-28T14:37:56.204Z",
       "last_pushed_at": "2026-10-28T14:37:56.204Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-10-30T02:36:33.157Z",
+      "last_pushed_at": "2026-10-30T02:36:33.157Z"
     }
   }
 }
